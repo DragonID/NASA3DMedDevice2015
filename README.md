@@ -7,7 +7,7 @@ In the challenging environments that are found on Mars, extended stays on ISS, a
 
 Team Rocket’s Cæléstis modifications to current NASA medical kits, recommendations for additional supplies to take, novel 3D printed medical devices, and an in-depth discussion on optimizing what current and future explorers take with them is presented here in full, Open Sourced (MIT License), and available for anyone to interact with, or improve.
 
-The best place to start is the The 1-minute video found on [YouTube] (). For a more in-depth view, our presentation [PPTX with video, (recommended)](https://github.com/DragonID/NASA3DMedDevice2015/blob/master/C%C3%A6l%C3%A9stis%20Presentation.pptx) or [PDF](https://github.com/DragonID/NASA3DMedDevice2015/blob/master/C%C3%A6l%C3%A9stis%20Presentation.pdf) is the next stop. Finally, our website [http://caelestis.space] (http://caelestis.space) has even more information.
+The best place to start is the The 1-minute video found on [YouTube] (). For a more in-depth view, our presentation [PPTX with video (recommended)](https://github.com/DragonID/NASA3DMedDevice2015/blob/master/C%C3%A6l%C3%A9stis%20Presentation.pptx), or [PDF](https://github.com/DragonID/NASA3DMedDevice2015/blob/master/C%C3%A6l%C3%A9stis%20Presentation.pdf) is the next stop. Finally, our website [http://caelestis.space] (http://caelestis.space) has even more information.
 
 Comprehensive information is available in the detailed write-up below.
 
