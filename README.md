@@ -7,11 +7,11 @@ In the challenging environments that are found on Mars, extended stays on ISS, a
 
 Team Rocket’s Cæléstis modifications to current NASA medical kits, recommendations for additional supplies to take, novel 3D printed medical devices, and an in-depth discussion on optimizing what current and future explorers take with them is presented here in full, Open Sourced (MIT License), and available for anyone to interact with, or improve.
 
-You can find more information in the detailed write-up below, on our website [caelestis.space] (http://caelestis.space).
+The best place to start is the The 1-minute video found on [YouTube] (). For a more in-depth view, our presentation [PPTX with video, recommended]() or [PDF]() is the next stop. Finally, our website [caelestis.space] (http://caelestis.space) has even more information.
+Comprehensive information is available in the detailed write-up below.
 
     Thank you, 
-    Team Rocket 
-    [@drgnid] (https://twitter.com/drgnid)
+    Team Rocket
 
 ## Current Astromed
 
@@ -54,4 +54,4 @@ Team Rocket members are:
 - Steve Mieskoski
 - Justin Nolan
 
-SON, THERE AIN'T NO 911 ON MARS
+SON, REMEMBER THERE AIN'T NO 911 ON MARS!
