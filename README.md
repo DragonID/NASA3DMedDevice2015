@@ -7,6 +7,8 @@ In the challenging environments that are found on Mars, extended stays on ISS, a
 
 Team Rocket’s Cæléstis modifications to current NASA medical kits, recommendations for additional supplies to take, novel 3D printed medical devices, and an in-depth discussion on optimizing what current and future explorers take with them is presented here in full, Open Sourced (MIT License), and available for anyone to interact with, or improve.
 
+You can find more information in the detailed write-up below, on our website [caelestis.space] (caelestis.space).
+
 Thank you,
 Team Rocket
 @drgnid
@@ -40,3 +42,16 @@ Current storage practices rely on very bulky (physically large 66 x 35.6 x 20.3c
 Cæléstis is proposing a new assembly to be taken to space which addresses these issues. It starts with packing a lower overall number of 'starter' devices that can be later re-created in space based on immediate needs. We then propose packing a large number of metal and ceramic parts that can be attached to the 3D printed handles and tools. Finally, a chosen 3D base material in solid blocks will be added to the payload. These will be packed in with the 3D printer, the high-temperature material recycler, and the UV sterilizer (mentioned in the list of additional medical devices above).
 
 The actual medical storage case itself has also been significantly modified, and updated, based on an optimized flip-open (i.e. origami) design. This allows us to optimize packing and storage of the individual medical kits, and to re-form them based on acute medical conditions that might be encountered in space. Our design allows easy access to kits, while providing tight geometric packing, a secure mechanism when opened for fastening to existing Velcro strips on walls, as well as the ability to utilize the box itself for creating a bandage if the need arises. The 3D files, video during use, and renders can be found [here] (https://github.com/DragonID/NASA3DMedDevice2015/tree/master/Case%203D%20Files). The detailed write-up of the advantages can be found [here] ().
+
+## Cæléstis Team
+
+Cæléstis has been created by Team Rocket for the NASA SpaceApps Challenge 2015 hosted at NASA John H. Glenn Research Center at Lewis Field in Cleveland, Ohio, USA. 
+
+Team Rocket members are:
+Eugene Malinskiy @emalinskiy
+Ilya Malinskiy @imalinskiy
+Daniel Dudley @daniel_dudley
+Steve Mieskoski
+Justin Nolan
+
+SON, THERE AIN'T NO 911 ON MARS
