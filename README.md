@@ -48,9 +48,9 @@ The actual medical storage case itself has also been significantly modified, and
 Cæléstis has been created by Team Rocket for the NASA SpaceApps Challenge 2015 hosted at NASA John H. Glenn Research Center at Lewis Field in Cleveland, Ohio, USA. 
 
 Team Rocket members are:
-- Eugene Malinskiy @emalinskiy
-- Ilya Malinskiy @imalinskiy
-- Daniel Dudley @daniel_dudley
+- Eugene Malinskiy [@emalinskiy] (https://twitter.com/emalinskiy)
+- Ilya Malinskiy
+- Daniel Dudley [@daniel_dudley] (https://twitter.com/daniel_dudley)
 - Steve Mieskoski
 - Justin Nolan
 
