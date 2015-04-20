@@ -11,7 +11,7 @@ You can find more information in the detailed write-up below, on our website [ca
 
     Thank you, 
     Team Rocket 
-    @drgnid 
+    [@drgnid] (https://twitter.com/drgnid)
 
 ## Current Astromed
 
