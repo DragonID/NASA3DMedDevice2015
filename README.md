@@ -7,7 +7,7 @@ In the challenging environments that are found on Mars, extended stays on ISS, a
 
 Team Rocket’s Cæléstis modifications to current NASA medical kits, recommendations for additional supplies to take, novel 3D printed medical devices, and an in-depth discussion on optimizing what current and future explorers take with them is presented here in full, Open Sourced (MIT License), and available for anyone to interact with, or improve.
 
-You can find more information in the detailed write-up below, on our website [caelestis.space] (caelestis.space).
+You can find more information in the detailed write-up below, on our website [caelestis.space] (http://caelestis.space).
 
     Thank you, 
     Team Rocket 
