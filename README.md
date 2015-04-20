@@ -1,5 +1,5 @@
-# NASA3DMedDevice2015
-Team Rocket's Cæléstis Submission for NASA SpaceApps Challenge 2015
+# Cæléstis
+#### Team Rocket's Cæléstis Submission for NASA SpaceApps Challenge 2015
 
 ### THERE AIN'T NO 911 ON MARS
 
@@ -25,3 +25,4 @@ In space we can actually create, or replace many medical devices by using 3D pri
 
 Other changes and advantages that we can envision with 3D printing in space is the standardization of common tools and device handles that are used by the astronaut, the significant weight and packing advantages of just bringing along the non-printable parts, as well as the ability to create or modify a tool for almost any hostile environment.
 
+To capitalize on the possibilities of 3D printing, Cæléstis is introducing a few novel designs that can be created on the ISS, a mission to Mars, or in a remote location on Earth. The first is a novel syringe specically crafted for 0g ()
