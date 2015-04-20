@@ -1,3 +1,5 @@
+![Cæléstis Logo](https://github.com/DragonID/NASA3DMedDevice2015/blob/master/TeamRocketLogo.png)
+
 # Cæléstis
 #### Team Rocket's Cæléstis Submission for NASA SpaceApps Challenge 2015
 
