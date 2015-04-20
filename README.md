@@ -9,9 +9,9 @@ Team Rocket’s Cæléstis modifications to current NASA medical kits, recommend
 
 You can find more information in the detailed write-up below, on our website [caelestis.space] (caelestis.space).
 
-Thank you,
-Team Rocket
-@drgnid
+    Thank you, 
+    Team Rocket 
+    @drgnid 
 
 ## Current Astromed
 
@@ -48,10 +48,10 @@ The actual medical storage case itself has also been significantly modified, and
 Cæléstis has been created by Team Rocket for the NASA SpaceApps Challenge 2015 hosted at NASA John H. Glenn Research Center at Lewis Field in Cleveland, Ohio, USA. 
 
 Team Rocket members are:
-Eugene Malinskiy @emalinskiy
-Ilya Malinskiy @imalinskiy
-Daniel Dudley @daniel_dudley
-Steve Mieskoski
-Justin Nolan
+- Eugene Malinskiy @emalinskiy
+- Ilya Malinskiy @imalinskiy
+- Daniel Dudley @daniel_dudley
+- Steve Mieskoski
+- Justin Nolan
 
 SON, THERE AIN'T NO 911 ON MARS
